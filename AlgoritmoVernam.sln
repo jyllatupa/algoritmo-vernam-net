@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmoVernam", "AlgoritmoVernam\AlgoritmoVernam.csproj", "{8F36555C-C541-4666-A1C2-624B23174BF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F36555C-C541-4666-A1C2-624B23174BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F36555C-C541-4666-A1C2-624B23174BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F36555C-C541-4666-A1C2-624B23174BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F36555C-C541-4666-A1C2-624B23174BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7858546B-DD05-4418-A2B4-B64E7D4B44DF}
+	EndGlobalSection
+EndGlobal
